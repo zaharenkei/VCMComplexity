@@ -1,0 +1,11 @@
+version=1
+title=VCM Complexity
+description=Complexity levels to adjust the difficulty per player.
+description=Designed primarily for multiplayer, the mod helps players of different experience levels share a more balanced game.
+description=
+description=Adds correspondent traits that affect damage taken, body-part injury chance, hunger, thirst, and endurance drain.
+description=Each trait's percentage can be adjusted independently in the VCM Complexity sandbox options.
+description=
+description=No incompatible mods are known at this time. The mod can be added to an existing save or safely removed; backups are recommended.
+tags=Build 42;Singleplayer;Multiplayer;Traits;Balance;
+visibility=public
