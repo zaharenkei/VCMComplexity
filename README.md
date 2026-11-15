@@ -24,27 +24,22 @@ server owners can tune the strengths independently.
 
 ## Installation
 
-1. Copy the folder containing `mod.info`, `42.22`, and `common` into
-   `%USERPROFILE%\Zomboid\mods\`. For example:
-   `%USERPROFILE%\Zomboid\mods\VCMComplexity\mod.info`.
+1. Copy the VCMComplexity root folder into `%USERPROFILE%\Zomboid\mods\`. 
 2. Start Project Zomboid and enable **VCM Complexity** from the Mods menu.
 3. Restart or reload as prompted by the game.
 
-For multiplayer, install and enable the same mod on the server and on each
-connecting client. Configure the six percentages under the **VCM Complexity**
-sandbox options on the server.
+For multiplayer, install and enable the same mod on the server and on each connecting client. Configure the mod in the server settings if required.
 
 ## Compatibility and saves
 
 - The mod targets Project Zomboid Build 42.22 and later.
-- No incompatible mods have been identified so far; compatibility with every
-  possible mod combination has not been tested.
+- No incompatible mods have been identified so far.
 - The mod can be added to an existing save and removed from a save safely.
   As with any change to a mod list, keeping a backup is recommended.
 
 ## Project status
 
-Most of this mod was created through vibe coding and AI-assisted iteration.
+Most of this mod was created through AI-assisted iteration.
 The code is intended to be manually reviewed and refactored over time, with
 continued testing and support as the game and mod evolve.
 
