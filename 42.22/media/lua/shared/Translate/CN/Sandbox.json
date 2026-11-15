@@ -1,0 +1,15 @@
+{
+    "Sandbox_VCMComplexity": "VCM Complexity",
+    "Sandbox_VCMComplexity_EasyModifierPercent": "简单特质效果（%）",
+    "Sandbox_VCMComplexity_EasyModifierPercent_tooltip": "按指定百分比降低所受伤害、受伤概率、饥饿和口渴增长速度以及耐力消耗。",
+    "Sandbox_VCMComplexity_EasierModifierPercent": "更简单特质效果（%）",
+    "Sandbox_VCMComplexity_EasierModifierPercent_tooltip": "按指定百分比降低所受伤害、受伤概率、饥饿和口渴增长速度以及耐力消耗。",
+    "Sandbox_VCMComplexity_EasiestModifierPercent": "最简单特质效果（%）",
+    "Sandbox_VCMComplexity_EasiestModifierPercent_tooltip": "按指定百分比降低所受伤害、受伤概率、饥饿和口渴增长速度以及耐力消耗。",
+    "Sandbox_VCMComplexity_HardModifierPercent": "困难特质效果（%）",
+    "Sandbox_VCMComplexity_HardModifierPercent_tooltip": "按指定百分比提高所受伤害、受伤概率、饥饿和口渴增长速度以及耐力消耗。",
+    "Sandbox_VCMComplexity_HarderModifierPercent": "更困难特质效果（%）",
+    "Sandbox_VCMComplexity_HarderModifierPercent_tooltip": "按指定百分比提高所受伤害、受伤概率、饥饿和口渴增长速度以及耐力消耗。",
+    "Sandbox_VCMComplexity_HardestModifierPercent": "最困难特质效果（%）",
+    "Sandbox_VCMComplexity_HardestModifierPercent_tooltip": "按指定百分比提高所受伤害、受伤概率、饥饿和口渴增长速度以及耐力消耗。"
+}

@@ -1,0 +1,15 @@
+{
+    "Sandbox_VCMComplexity": "VCM Complexity",
+    "Sandbox_VCMComplexity_EasyModifierPercent": "Модификатор «Простой» (%)",
+    "Sandbox_VCMComplexity_EasyModifierPercent_tooltip": "Снижает получаемый урон, вероятность травмы, скорость роста голода и жажды, а также расход выносливости на указанный процент.",
+    "Sandbox_VCMComplexity_EasierModifierPercent": "Модификатор «Проще» (%)",
+    "Sandbox_VCMComplexity_EasierModifierPercent_tooltip": "Снижает получаемый урон, вероятность травмы, скорость роста голода и жажды, а также расход выносливости на указанный процент.",
+    "Sandbox_VCMComplexity_EasiestModifierPercent": "Модификатор «Самый простой» (%)",
+    "Sandbox_VCMComplexity_EasiestModifierPercent_tooltip": "Снижает получаемый урон, вероятность травмы, скорость роста голода и жажды, а также расход выносливости на указанный процент.",
+    "Sandbox_VCMComplexity_HardModifierPercent": "Модификатор «Сложный» (%)",
+    "Sandbox_VCMComplexity_HardModifierPercent_tooltip": "Увеличивает получаемый урон, вероятность травмы, скорость роста голода и жажды, а также расход выносливости на указанный процент.",
+    "Sandbox_VCMComplexity_HarderModifierPercent": "Модификатор «Сложнее» (%)",
+    "Sandbox_VCMComplexity_HarderModifierPercent_tooltip": "Увеличивает получаемый урон, вероятность травмы, скорость роста голода и жажды, а также расход выносливости на указанный процент.",
+    "Sandbox_VCMComplexity_HardestModifierPercent": "Модификатор «Самый сложный» (%)",
+    "Sandbox_VCMComplexity_HardestModifierPercent_tooltip": "Увеличивает получаемый урон, вероятность травмы, скорость роста голода и жажды, а также расход выносливости на указанный процент."
+}

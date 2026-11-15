@@ -1,0 +1,32 @@
+VERSION = 1,
+
+option VCMComplexity.EasyModifierPercent
+{
+    type = integer, min = 0, max = 99, default = 10,
+    page = VCMComplexity, translation = VCMComplexity_EasyModifierPercent,
+}
+option VCMComplexity.EasierModifierPercent
+{
+    type = integer, min = 0, max = 99, default = 20,
+    page = VCMComplexity, translation = VCMComplexity_EasierModifierPercent,
+}
+option VCMComplexity.EasiestModifierPercent
+{
+    type = integer, min = 0, max = 99, default = 30,
+    page = VCMComplexity, translation = VCMComplexity_EasiestModifierPercent,
+}
+option VCMComplexity.HardModifierPercent
+{
+    type = integer, min = 0, max = 99, default = 10,
+    page = VCMComplexity, translation = VCMComplexity_HardModifierPercent,
+}
+option VCMComplexity.HarderModifierPercent
+{
+    type = integer, min = 0, max = 99, default = 20,
+    page = VCMComplexity, translation = VCMComplexity_HarderModifierPercent,
+}
+option VCMComplexity.HardestModifierPercent
+{
+    type = integer, min = 0, max = 99, default = 30,
+    page = VCMComplexity, translation = VCMComplexity_HardestModifierPercent,
+}

@@ -1,0 +1,15 @@
+{
+    "Sandbox_VCMComplexity": "VCM Complexity",
+    "Sandbox_VCMComplexity_EasyModifierPercent": "Modificador Fácil (%)",
+    "Sandbox_VCMComplexity_EasyModifierPercent_tooltip": "Reduce el daño recibido, la probabilidad de lesión y la velocidad de aumento del hambre y la sed, así como el consumo de resistencia, en el porcentaje indicado.",
+    "Sandbox_VCMComplexity_EasierModifierPercent": "Modificador Más fácil (%)",
+    "Sandbox_VCMComplexity_EasierModifierPercent_tooltip": "Reduce el daño recibido, la probabilidad de lesión y la velocidad de aumento del hambre y la sed, así como el consumo de resistencia, en el porcentaje indicado.",
+    "Sandbox_VCMComplexity_EasiestModifierPercent": "Modificador Muy fácil (%)",
+    "Sandbox_VCMComplexity_EasiestModifierPercent_tooltip": "Reduce el daño recibido, la probabilidad de lesión y la velocidad de aumento del hambre y la sed, así como el consumo de resistencia, en el porcentaje indicado.",
+    "Sandbox_VCMComplexity_HardModifierPercent": "Modificador Difícil (%)",
+    "Sandbox_VCMComplexity_HardModifierPercent_tooltip": "Aumenta el daño recibido, la probabilidad de lesión y la velocidad de aumento del hambre y la sed, así como el consumo de resistencia, en el porcentaje indicado.",
+    "Sandbox_VCMComplexity_HarderModifierPercent": "Modificador Más difícil (%)",
+    "Sandbox_VCMComplexity_HarderModifierPercent_tooltip": "Aumenta el daño recibido, la probabilidad de lesión y la velocidad de aumento del hambre y la sed, así como el consumo de resistencia, en el porcentaje indicado.",
+    "Sandbox_VCMComplexity_HardestModifierPercent": "Modificador Muy difícil (%)",
+    "Sandbox_VCMComplexity_HardestModifierPercent_tooltip": "Aumenta el daño recibido, la probabilidad de lesión y la velocidad de aumento del hambre y la sed, así como el consumo de resistencia, en el porcentaje indicado."
+}

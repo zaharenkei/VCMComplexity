@@ -1,0 +1,4 @@
+*.log
+*.luac
+Thumbs.db
+.DS_Store

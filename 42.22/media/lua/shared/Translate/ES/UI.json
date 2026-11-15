@@ -1,0 +1,14 @@
+{
+    "UI_trait_vcmcomplexity_easiest": "Muy fácil",
+    "UI_trait_vcmcomplexity_easiestdesc": "Reduce el daño recibido, la probabilidad de lesión y la velocidad de aumento del hambre y la sed, así como el consumo de resistencia, en un %1%%.",
+    "UI_trait_vcmcomplexity_easier": "Más fácil",
+    "UI_trait_vcmcomplexity_easierdesc": "Reduce el daño recibido, la probabilidad de lesión y la velocidad de aumento del hambre y la sed, así como el consumo de resistencia, en un %1%%.",
+    "UI_trait_vcmcomplexity_easy": "Fácil",
+    "UI_trait_vcmcomplexity_easydesc": "Reduce el daño recibido, la probabilidad de lesión y la velocidad de aumento del hambre y la sed, así como el consumo de resistencia, en un %1%%.",
+    "UI_trait_vcmcomplexity_hard": "Difícil",
+    "UI_trait_vcmcomplexity_harddesc": "Aumenta el daño recibido, la probabilidad de lesión y la velocidad de aumento del hambre y la sed, así como el consumo de resistencia, en un %1%%.",
+    "UI_trait_vcmcomplexity_harder": "Más difícil",
+    "UI_trait_vcmcomplexity_harderdesc": "Aumenta el daño recibido, la probabilidad de lesión y la velocidad de aumento del hambre y la sed, así como el consumo de resistencia, en un %1%%.",
+    "UI_trait_vcmcomplexity_hardest": "Muy difícil",
+    "UI_trait_vcmcomplexity_hardestdesc": "Aumenta el daño recibido, la probabilidad de lesión y la velocidad de aumento del hambre y la sed, así como el consumo de resistencia, en un %1%%."
+}

@@ -1,0 +1,14 @@
+{
+    "UI_trait_vcmcomplexity_easiest": "Easiest",
+    "UI_trait_vcmcomplexity_easiestdesc": "Decreases damage taken, injury chance, hunger, thirst, and endurance by %1%%.",
+    "UI_trait_vcmcomplexity_easier": "Easier",
+    "UI_trait_vcmcomplexity_easierdesc": "Decreases damage taken, injury chance, hunger, thirst, and endurance by %1%%.",
+    "UI_trait_vcmcomplexity_easy": "Easy",
+    "UI_trait_vcmcomplexity_easydesc": "Decreases damage taken, injury chance, hunger, thirst, and endurance by %1%%.",
+    "UI_trait_vcmcomplexity_hard": "Hard",
+    "UI_trait_vcmcomplexity_harddesc": "Increases damage taken, injury chance, hunger, thirst, and endurance by %1%%.",
+    "UI_trait_vcmcomplexity_harder": "Harder",
+    "UI_trait_vcmcomplexity_harderdesc": "Increases damage taken, injury chance, hunger, thirst, and endurance by %1%%.",
+    "UI_trait_vcmcomplexity_hardest": "Hardest",
+    "UI_trait_vcmcomplexity_hardestdesc": "Increases damage taken, injury chance, hunger, thirst, and endurance by %1%%."
+}

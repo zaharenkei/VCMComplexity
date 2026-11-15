@@ -1,0 +1,15 @@
+{
+    "Sandbox_VCMComplexity": "VCM Complexity",
+    "Sandbox_VCMComplexity_EasyModifierPercent": "Easy modifier (%)",
+    "Sandbox_VCMComplexity_EasyModifierPercent_tooltip": "Decreases damage taken, injury chance, hunger, thirst, and endurance by the specified percentage.",
+    "Sandbox_VCMComplexity_EasierModifierPercent": "Easier modifier (%)",
+    "Sandbox_VCMComplexity_EasierModifierPercent_tooltip": "Decreases damage taken, injury chance, hunger, thirst, and endurance by the specified percentage.",
+    "Sandbox_VCMComplexity_EasiestModifierPercent": "Easiest modifier (%)",
+    "Sandbox_VCMComplexity_EasiestModifierPercent_tooltip": "Decreases damage taken, injury chance, hunger, thirst, and endurance by the specified percentage.",
+    "Sandbox_VCMComplexity_HardModifierPercent": "Hard modifier (%)",
+    "Sandbox_VCMComplexity_HardModifierPercent_tooltip": "Increases damage taken, injury chance, hunger, thirst, and endurance by the specified percentage.",
+    "Sandbox_VCMComplexity_HarderModifierPercent": "Harder modifier (%)",
+    "Sandbox_VCMComplexity_HarderModifierPercent_tooltip": "Increases damage taken, injury chance, hunger, thirst, and endurance by the specified percentage.",
+    "Sandbox_VCMComplexity_HardestModifierPercent": "Hardest modifier (%)",
+    "Sandbox_VCMComplexity_HardestModifierPercent_tooltip": "Increases damage taken, injury chance, hunger, thirst, and endurance by the specified percentage."
+}

@@ -1,0 +1,68 @@
+module VCMComplexity {
+
+    character_trait_definition VCMComplexity:easiest
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMComplexity:easiest,
+        Cost = -9,
+        UIName = UI_trait_vcmcomplexity_easiest,
+        UIDescription = UI_trait_vcmcomplexity_easiestdesc,
+        MutuallyExclusiveTraits = VCMComplexity:easier;VCMComplexity:easy;VCMComplexity:hard;VCMComplexity:harder;VCMComplexity:hardest,
+    }
+
+    character_trait_definition VCMComplexity:easier
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMComplexity:easier,
+        Cost = -6,
+        UIName = UI_trait_vcmcomplexity_easier,
+        UIDescription = UI_trait_vcmcomplexity_easierdesc,
+        MutuallyExclusiveTraits = VCMComplexity:easiest;VCMComplexity:easy;VCMComplexity:hard;VCMComplexity:harder;VCMComplexity:hardest,
+    }
+
+    character_trait_definition VCMComplexity:easy
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMComplexity:easy,
+        Cost = -3,
+        UIName = UI_trait_vcmcomplexity_easy,
+        UIDescription = UI_trait_vcmcomplexity_easydesc,
+        MutuallyExclusiveTraits = VCMComplexity:easiest;VCMComplexity:easier;VCMComplexity:hard;VCMComplexity:harder;VCMComplexity:hardest,
+    }
+
+    character_trait_definition VCMComplexity:hard
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMComplexity:hard,
+        Cost = 3,
+        UIName = UI_trait_vcmcomplexity_hard,
+        UIDescription = UI_trait_vcmcomplexity_harddesc,
+        MutuallyExclusiveTraits = VCMComplexity:easiest;VCMComplexity:easier;VCMComplexity:easy;VCMComplexity:harder;VCMComplexity:hardest,
+    }
+
+    character_trait_definition VCMComplexity:harder
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMComplexity:harder,
+        Cost = 6,
+        UIName = UI_trait_vcmcomplexity_harder,
+        UIDescription = UI_trait_vcmcomplexity_harderdesc,
+        MutuallyExclusiveTraits = VCMComplexity:easiest;VCMComplexity:easier;VCMComplexity:easy;VCMComplexity:hard;VCMComplexity:hardest,
+    }
+
+    character_trait_definition VCMComplexity:hardest
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMComplexity:hardest,
+        Cost = 9,
+        UIName = UI_trait_vcmcomplexity_hardest,
+        UIDescription = UI_trait_vcmcomplexity_hardestdesc,
+        MutuallyExclusiveTraits = VCMComplexity:easiest;VCMComplexity:easier;VCMComplexity:easy;VCMComplexity:hard;VCMComplexity:harder,
+    }
+}

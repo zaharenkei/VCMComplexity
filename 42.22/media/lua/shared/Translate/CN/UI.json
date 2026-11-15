@@ -1,0 +1,14 @@
+{
+    "UI_trait_vcmcomplexity_easiest": "最简单",
+    "UI_trait_vcmcomplexity_easiestdesc": "所受伤害、身体部位受伤概率、饥饿和口渴增长速度以及耐力消耗降低%1%%。",
+    "UI_trait_vcmcomplexity_easier": "更简单",
+    "UI_trait_vcmcomplexity_easierdesc": "所受伤害、身体部位受伤概率、饥饿和口渴增长速度以及耐力消耗降低%1%%。",
+    "UI_trait_vcmcomplexity_easy": "简单",
+    "UI_trait_vcmcomplexity_easydesc": "所受伤害、身体部位受伤概率、饥饿和口渴增长速度以及耐力消耗降低%1%%。",
+    "UI_trait_vcmcomplexity_hard": "困难",
+    "UI_trait_vcmcomplexity_harddesc": "所受伤害、身体部位受伤概率、饥饿和口渴增长速度以及耐力消耗提高%1%%。",
+    "UI_trait_vcmcomplexity_harder": "更困难",
+    "UI_trait_vcmcomplexity_harderdesc": "所受伤害、身体部位受伤概率、饥饿和口渴增长速度以及耐力消耗提高%1%%。",
+    "UI_trait_vcmcomplexity_hardest": "最困难",
+    "UI_trait_vcmcomplexity_hardestdesc": "所受伤害、身体部位受伤概率、饥饿和口渴增长速度以及耐力消耗提高%1%%。"
+}
